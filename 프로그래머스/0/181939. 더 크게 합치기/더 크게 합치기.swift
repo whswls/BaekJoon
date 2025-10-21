@@ -8,6 +8,4 @@ func solution(_ a:Int, _ b:Int) -> Int {
     } else {
         return 0
     }
-    
-
 }
